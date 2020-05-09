@@ -48,7 +48,7 @@ if __name__ == "__main__":
         "black"
     ]
 
-    cur_dir = os.getcwd()
+    cur_dir = "."
     image_dir = os.path.join(cur_dir, "images")
     contour_dir = os.path.join(cur_dir, "contours")
     res_path = os.path.join(cur_dir, "result.txt")
