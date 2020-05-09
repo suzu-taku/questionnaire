@@ -14,7 +14,6 @@ $ git clone https://github.com/suzu-taku/questionnaire.git
 
 ```
 $ cd questionnaire
-
 $ pip install -r requirements.txt
 ```
 
@@ -91,7 +90,6 @@ Your answer >> exit
 
 ```
 You checked all images.
-
 Thank you very much for your cooperation!
 ```
 
