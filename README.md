@@ -24,7 +24,6 @@
 
 ```
 This is the picture No.001 / 060 with all masks.
-
 Please push the enter button.
 ```
 
