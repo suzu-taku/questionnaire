@@ -6,7 +6,9 @@
 
 まず，以下のコマンドでこのリポジトリをダウンロードしてください．
 
-```$ git clone https://github.com/suzu-taku/questionnaire.git```
+```
+$ git clone https://github.com/suzu-taku/questionnaire.git
+```
 
 次に，"questionnaire"に移動して以下のコマンドでパッケージ（OpenCV, matplotlib）をインストールしてください．
 
@@ -20,7 +22,9 @@ $ pip install -r requirements.txt
 
 準備ができたら，"main.py"を実行してください．
 
-```$ python main.py```
+```
+$ python main.py
+```
 
 実行すると，まず以下の画面および文字列が出力されます．
 
@@ -73,7 +77,9 @@ Your answer >>
 
 アンケートを中断する際にはYour answerに"exit"と入力するかプログラムを終了してください．
 
-```Your answer >> exit```
+```
+Your answer >> exit
+```
 
 アンケートを再開する際に再び"main.py"を実行してください．
 
