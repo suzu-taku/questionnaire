@@ -90,7 +90,7 @@ Your answer >> exit
 アンケートを最後まで実行すると，以下の文字列が出力されプログラムが終了します．
 
 ```
-You answered all images.
+You checked all images.
 
 Thank you very much for your cooperation!
 ```
