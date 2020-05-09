@@ -95,4 +95,4 @@ You checked all images.
 Thank you very much for your cooperation!
 ```
 
-これが表示されたら，生成された"result.txt"を[ここ](https://www.dropbox.com/request/dqUKYzZdGBerNj2a7zgu)に送信してください．
+これが表示されたら，生成された"result.txt"を[**ここ**](https://www.dropbox.com/request/dqUKYzZdGBerNj2a7zgu)に送信してください．
