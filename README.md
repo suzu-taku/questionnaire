@@ -8,9 +8,13 @@
 
 ```$ git clone https://github.com/suzu-taku/questionnaire.git```
 
-次に，以下のコマンドでパッケージ（OpenCV, matplotlib）をインストールしてください．
+次に，"questionnaire"に移動して以下のコマンドでパッケージ（OpenCV, matplotlib）をインストールしてください．
 
-```$ pip install -r requirements.txt```
+```
+$ cd questionnaire
+
+$ pip install -r requirements.txt
+```
 
 ## 実行
 
