@@ -77,6 +77,12 @@ Your answer >>
 
 ## 提出
 
-プログラムを実行すると"result.txt"が生成されます．
+アンケートを最後まで実行すると，以下の文字列が出力されプログラムが終了します．
 
-この"result.txt"を[ここ](https://www.dropbox.com/request/dqUKYzZdGBerNj2a7zgu)に送信してください．
+```
+You answered all images.
+
+Thank you very much for your cooperation!
+```
+
+これが表示されたら，生成された"result.txt"を[ここ](https://www.dropbox.com/request/dqUKYzZdGBerNj2a7zgu)に送信してください．
