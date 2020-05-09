@@ -131,7 +131,7 @@ if __name__ == "__main__":
             with open(res_path, "a") as f:
                 f.write("%d,%d,%s\n"%(image_id, vi, val))
 
-    print("You answered all images.")
+    print("You checked all images.")
     print("Thank you very much for your cooperation!")
 
 
