@@ -121,8 +121,8 @@ if __name__ == "__main__":
                     
                     break
                 elif val == "exit":
-                    print("Interrupt the questionnaire.") 
-                    print("If you resume this, please run 'main.py' again.")
+                    print("The test is interrupted.") 
+                    print("When you resume, please run 'main.py' again.")
                     exit()
                 else:
                     print("Please input 1 - 4.")
