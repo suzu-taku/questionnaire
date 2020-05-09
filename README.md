@@ -20,7 +20,7 @@
 
 実行すると，まず以下の画面が表示されます．
 
-!(suzu-taku/questionnaire/demo/demo_image_1)
+![](suzu-taku/questionnaire/demo/demo_image_1)
 
 
 最後まで終了したら[ここ](https://www.dropbox.com/request/dqUKYzZdGBerNj2a7zgu)に"result.txt"を送信してください．
