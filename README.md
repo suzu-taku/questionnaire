@@ -63,7 +63,7 @@ Please push the enter button.
 image   1 /  60,     mask   1 /   3
 ------------------------------------------
 1: The        red mask is very   important
-2: The        red mask is rather important
+2: The        red mask is        important
 3: The        red mask is not so important
 4: The        red mask is not    important
 ------------------------------------------
