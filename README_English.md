@@ -70,9 +70,9 @@ Left: original image, Right: target image with a candidate region
 
 This image is stored as "now_image_1.jpg". If the image is not displayed, refer to that.
 
-If the masked region is        important -> input 1
+If the masked region is very   important -> input 1
 
-If the masked region is rather important -> input 2
+If the masked region is        important -> input 2
                  
 If the masked region is not so important -> input 3
                  
