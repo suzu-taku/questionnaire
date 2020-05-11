@@ -51,7 +51,7 @@ if __name__ == "__main__":
 
     args = sys.argv
     try:
-        id = int(args[0])
+        id = int(args[])
     except:
         print("Please input questionnaire ID.")
         exit()
