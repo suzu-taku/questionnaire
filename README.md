@@ -22,7 +22,7 @@ $ git clone https://github.com/suzu-taku/questionnaire.git
 
 次に，"questionnaire"に移動して以下のコマンドでパッケージ（OpenCV, matplotlib, numpy）をインストールしてください．
 
-（matplotlibは3.0.0以上が望ましいです．）
+（すでに入っている人はインストールする必要はありませんが，matplotlibは3.0.0以上が望ましいです．）
 
 ```
 $ cd questionnaire
