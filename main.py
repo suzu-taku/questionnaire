@@ -141,7 +141,7 @@ if __name__ == "__main__":
                 % (image_id, image_num, ci + 1, len(contours_list)))
                 print("------------------------------------------")
                 print("1: The %10s mask is very   important"%(colors[ci]))
-                print("2: The %10s mask is rather important"%(colors[ci]))
+                print("2: The %10s mask is        important"%(colors[ci]))
                 print("3: The %10s mask is not so important"%(colors[ci]))
                 print("4: The %10s mask is not    important"%(colors[ci]))
                 print("------------------------------------------")
