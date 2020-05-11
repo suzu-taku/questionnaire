@@ -70,7 +70,7 @@ if __name__ == "__main__":
     image_num = 60
     val_list = [str(n) for n in range(1, 5)]
 
-    fig, (ax1, ax2) = plt.subplots(ncols=2, figsize=(10, 4))
+    fig, (ax1, ax2) = plt.subplots(ncols=2, figsize=(W/100, H/200))
     ax1.tick_params(
         labelbottom=False, labelleft=False, labelright=False, labeltop=False,
         bottom=False, left=False, right=False, top=False
