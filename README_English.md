@@ -20,7 +20,7 @@ Download this repository like this:
 $ git clone https://github.com/suzu-taku/questionnaire.git
 ```
 
-Install all the python dependencies (OpenCV, matplotlib>=3.0.0, numpy) using pip.
+Install all the python dependencies (OpenCV, matplotlib>=3.0.0, numpy, Pillow) using pip.
 
 ```
 $ cd questionnaire
